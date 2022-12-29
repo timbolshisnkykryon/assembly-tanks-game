@@ -4,4 +4,7 @@ Unfortunately not the cleanest code and all in one file, but hey! At least a lot
 
 ## Run the game
 - I used DOSbox for running the game
-- if you dont want to build it all, just run the exe: project.exe
+- if you dont want to build it all:
+  - Open DOSbox 
+  - Type command: "mount [PATH_TO_REPO]"
+  - Now just "PROJECT.EXE"
