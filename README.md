@@ -1,6 +1,6 @@
 # assembly-tanks-game
 Created this small cool game at the age of 16 in assembly x86. 
-Unfortunately not the cleanest code and all in one file, but hey! At least a lot of comments :)
+Unfortunately not the cleanest code and all in one file, but hey! At least there are a lot of comments :)
 
 ## Run the game
 All BMP files are lost so...
